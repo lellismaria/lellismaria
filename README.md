@@ -6,7 +6,7 @@
 
 
 - 🤔 &nbsp; Explorando a área de tecnologia e .
-- 🎓 &nbsp; Bacharel de **DIREITO** na <a href="link da sua faculdade">Faculdade Santa Rita de Cássia - IFASC</a>.
+- 🎓 &nbsp; Bacharel de **DIREITO** na <a href="https://unifasc.edu.br/">Faculdade Santa Rita de Cássia - IFASC</a>.
 - 💼 &nbsp; Buscando novas experiências na área de **Front-end** 
 - 🌱 &nbsp; Estudando no momento **HTML, CSS e JavaScript**.
 &nbsp;
