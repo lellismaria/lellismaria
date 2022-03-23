@@ -5,10 +5,10 @@
 <h3> 👩 | &nbsp;Um pouco sobre mim: </h3>
 
 
-- 🤔 &nbsp; Explorando a área de tecnologia e .
+- 🤔 &nbsp; Explorando a área de tecnologia.
 - 🎓 &nbsp; Bacharel de **DIREITO** na <a href="https://unifasc.edu.br/">Faculdade Santa Rita de Cássia - IFASC</a>.
 - 💼 &nbsp; Buscando novas experiências na área de **Front-end** 
-- 🌱 &nbsp; Estudando no momento **HTML, CSS e JavaScript**.
+- 🌱 &nbsp; Estudando no momento **Full Stack pela OneBitCode**.
 &nbsp;
 &nbsp;
 &nbsp;
