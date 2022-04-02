@@ -35,6 +35,12 @@
 
 <h3> 🌐 | &nbsp;Onde você pode me encontrar: </h3> 
 
-[![Linkedin: Maria Emília](https://img.shields.io/badge/-lellismaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lellismaria)](www.linkedin.com/in/lellismaria)
-[![Gmail Badge](https://img.shields.io/badge/-meslellis@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meslellis@gmail.com)](mailto:mesllelis@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/lellismaria?label=follow&style=social)](https://github.com/lellismaria)
+<div> 
+  <a href="https://www.youtube.com/channel/UC-5VWl-47IcMx20wd7uer_g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lelismaaria" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/sk4iis" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:meslellis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lellismaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
