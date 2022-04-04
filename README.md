@@ -1,3 +1,5 @@
+![profile](https://drpoesiahome.files.wordpress.com/2020/11/gifffff.gif)
+
 ![](https://komarev.com/ghpvc/?username=lellismaria&color=006bed)
 
 ## Olá! Eu sou a Maria Emília! 🖐️
@@ -25,11 +27,11 @@
 &nbsp;
 
 ## 🔧 | **GitHub Estatísticas**
-
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lellismaria&theme=dracula&hide_langs_below=1" />
-</a>
+<div>
+  <a href="https://github.com/lellismaria">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lellismaria&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lellismaria&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 <br/>
 &nbsp;
 
@@ -41,6 +43,5 @@
  	<a href="https://www.twitch.tv/sk4iis" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:meslellis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lellismaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
  
 </div>
