@@ -8,9 +8,10 @@
 
 
 - 🤔 &nbsp; Explorando a área de tecnologia.
-- 🎓 &nbsp; Bacharel de **DIREITO** na <a href="https://unifasc.edu.br/">Faculdade Santa Rita de Cássia - IFASC</a>.
+- 🎓 &nbsp; Bacharel de **DIREITO** na <a href="https://univesp.br/">Faculdade Santa Rita de Cássia - IFASC</a>.
+- 🎓 &nbsp; Estudante de Engenharia da Computação pela <a href="https://unifasc.edu.br/">Universidade Virtual do Estado de São Paulo - UNIVESP</a>.
 - 💼 &nbsp; Buscando novas experiências na área de **Front-end** 
-- 🌱 &nbsp; Estudando no momento **Full Stack pela OneBitCode**.
+- 🌱 &nbsp; Estudando no momento **HTML/CSS, Javascript e Python**.
 &nbsp;
 &nbsp;
 &nbsp;
