@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center">Olá, como vai? Eu sou a <a href="https://www.linkedin.com/in/lellismaria/"><i>Maria Emília</i></a> 👋</h1>
-  <p align="center">Estudo Engenharia da Computação na <a href="https://unifasc.edu.br/">Universidade Virtual do Estado de São Paulo - UNIVESP</a> 
+  <p align="center">Estudo Ciência da Computação na <a href="https://descomplica.com.br/faculdade/">Faculdade Digital Descomplica</a> 
 </div>
 
 <div align="center" valign="top"><br>
